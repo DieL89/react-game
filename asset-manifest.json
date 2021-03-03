@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ffa287d.chunk.css",
+    "main.js": "/static/js/main.65fbf5dd.chunk.js",
+    "main.js.map": "/static/js/main.65fbf5dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.da07dd24.js",
+    "runtime-main.js.map": "/static/js/runtime-main.da07dd24.js.map",
+    "static/js/2.2c057735.chunk.js": "/static/js/2.2c057735.chunk.js",
+    "static/js/2.2c057735.chunk.js.map": "/static/js/2.2c057735.chunk.js.map",
+    "static/js/3.571daf02.chunk.js": "/static/js/3.571daf02.chunk.js",
+    "static/js/3.571daf02.chunk.js.map": "/static/js/3.571daf02.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0ffa287d.chunk.css.map": "/static/css/main.0ffa287d.chunk.css.map",
+    "static/js/2.2c057735.chunk.js.LICENSE.txt": "/static/js/2.2c057735.chunk.js.LICENSE.txt",
+    "static/media/card.scss": "/static/media/cartoon-brain.ff80d4a2.png",
+    "static/media/game-music-short.5b81fc2f.mp3": "/static/media/game-music-short.5b81fc2f.mp3",
+    "static/media/logo_rs_school_js.ad178c0d.svg": "/static/media/logo_rs_school_js.ad178c0d.svg",
+    "static/media/card-board.scss": "/static/media/promo.e296634c.png",
+    "static/media/sound-flip-card.e2cadc13.m4a": "/static/media/sound-flip-card.e2cadc13.m4a"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da07dd24.js",
+    "static/js/2.2c057735.chunk.js",
+    "static/css/main.0ffa287d.chunk.css",
+    "static/js/main.65fbf5dd.chunk.js"
+  ]
+}
