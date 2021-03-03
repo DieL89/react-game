@@ -1,2 +1,2 @@
--Push "START" button to start the game
--Use "SETTINGS" to manage game options
+- Push "START" button to start the game
+- Use "SETTINGS" to manage game options
